@@ -1,0 +1,52 @@
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #FF9500;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 2em;
+    margin: 0em 10% 0em 10%;
+    padding: 2%;
+    overflow: auto;
+}
+body{
+	text-align: center;
+	background-color: #FFBA58;
+}
+
+#encrypt{
+	color: #FFFFFF;
+	background-color: #330007;
+	text-align: center;
+	display: block;
+	font-size: 1em;
+	cursor: pointer;
+	padding: 10PX 10PX;
+	border-radius: 50px;
+	border: none;
+	margin-bottom: 2%;
+	margin-top: 25px;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#encrypt:hover{
+	background-color: #002270;
+}
+#encrypt:focus{
+	border: none;
+	outline: none;
+}
+#swagga {
+	font-family: sans-serif;
+	font-size: 50px;
+}
+.textbox {
+	font-family: sans-serif;
+	font-size: 20px;
+	border: 2px solid;
+	display: inline-block;
+	padding: 50px;
+	border-radius: 50px;
+	margin-bottom: 10px;
+}
